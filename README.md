@@ -23,4 +23,5 @@ Tech Stack
 •	Bar chart showing count of titles per rating
 •	Slicers for Type and Release Year
 
-  
+   Dashboard Snapshots
+   Screenshots of the Power BI dashboards here for visual reference - 
