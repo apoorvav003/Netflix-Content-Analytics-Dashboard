@@ -24,4 +24,4 @@ Tech Stack
 •	Slicers for Type and Release Year
 
    Dashboard Snapshots
-   Screenshots of the Power BI dashboards here for visual reference - 
+   Screenshots of the Power BI dashboards here for visual reference - https://github.com/apoorvav003/Netflix-Content-Analytics-Dashboard/blob/main/Netflix-dashbaord.png
